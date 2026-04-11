@@ -175,7 +175,7 @@ docker container ls -a
 
 ---
 
-## Task 2.14: Observe Image Size vs OS Size
+## Task 1.14: Observe Image Size vs OS Size
 
 Check OS size (in Docker Host):
 

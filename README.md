@@ -97,10 +97,7 @@ If this repo helps you:
 
 ---
 
-## 🔥 Author
-
-**Ponnam Phani krishna**
+**ThankYou**  
+*Ponnam Phani krishna*
 **E-Mail** - ponnam.phani@gmail.com
-**@Telegram** - @phani_ponnam
 
-Helping you become a DevOps Engineer 🚀
